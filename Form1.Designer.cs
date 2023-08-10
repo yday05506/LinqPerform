@@ -152,7 +152,7 @@
             this.Controls.Add(this.dataGridView1);
             this.IsMdiContainer = true;
             this.Name = "Form1";
-            this.Text = "성우 리스트";
+            this.Text = "3208 양다연";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.voiceActorBindingSource)).EndInit();
             this.ResumeLayout(false);
